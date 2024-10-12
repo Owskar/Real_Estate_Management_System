@@ -2,7 +2,7 @@
 
 <h4>Demo link - https://drive.google.com/file/d/13dRw4YTHsEMPFF07qHmSHO1dSYsvYFZJ/view   🚀🚀 </h4>
 
-<p id="description">This project is a Real Estate Management System developed as part of the ExcelR training program. The system is implemented using React for the front-end Spring Boot for the back-end and MySQL as the database. Our project was created by a dedicated group of team members: Shruti Nikita Sakshi Thiriksha and Sarvanan. Each member contributed their expertise and effort to bring this system to life.</p>
+<p id="description">A full-stack web application built using ReactJS and Spring Boot that streamlines property management for admins, agents, and clients. Key features include user authentication, role-based dashboards, property listings with search and filter options, and the ability for agents to add, edit, and manage properties. The project is powered by MySQL for database management and includes responsive design, smooth animations, and user-friendly interfaces.</p>
 
 <h2>Project Screenshots:</h2>
 
