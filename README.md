@@ -6,18 +6,18 @@
 
 <h2>Project Screenshots:</h2>
 
-<p align="center"><img src="https://github.com/hafsamuskan/Real_Estate_Management_System/blob/main/github-pictures/home.jpeg" alt="project-screenshot" width="500" height="800/">
+<p align="center"><img src="https://github.com/Owskar/Real_Estate_Management_System/blob/main/github-pictures/home.jpeg" alt="project-screenshot" width="500" height="800/">
 
 <br>
 
 <br>
-<img src="https://github.com/hafsamuskan/Real_Estate_Management_System/blob/main/github-pictures/Contact.jpeg" alt="project-screenshot" width="600" height="400/">
+<img src="https://github.com/Owskar/Real_Estate_Management_System/blob/main/github-pictures/Contact.jpeg" alt="project-screenshot" width="600" height="400/">
 
 <br>
-<img src="https://github.com/hafsamuskan/Real_Estate_Management_System/blob/main/github-pictures/Properties.jpeg" alt="project-screenshot" width="600" height="800/">
+<img src="https://github.com/Owskar/Real_Estate_Management_System/blob/main/github-pictures/Properties.jpeg" alt="project-screenshot" width="600" height="800/">
 
 <br>
-<img src="https://github.com/hafsamuskan/Real_Estate_Management_System/blob/main/github-pictures/login.jpeg" alt="project-screenshot" width="600" height="400/">
+<img src="https://github.com/Owskar/Real_Estate_Management_System/blob/main/github-pictures/login.jpeg" alt="project-screenshot" width="600" height="400/">
 
 <br>
 
@@ -42,5 +42,3 @@ npm install axios
 ```
 npm start
 ```
-
-<h2>Contributors</h2>
