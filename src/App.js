@@ -22,12 +22,7 @@ import ManageClients from './components/ManageClients';
 import TransactionsPage from './pages/TransactionsPage';
 
 const App = () => {
-  const [users, setUsers] = useState([
-    { id: 1, name: 'Villa', email: 'Chennai', role: '123*12', mobile: '9999999999' },
-    { id: 2, name: 'Plot', email: 'Telangana', role: '345*563', mobile: '99999999' },
-    { id: 3, name: 'House', email: 'Andhra Pradesh', role: '140*245', mobile: '888888888' },
-  ]);
-
+ 
   return (
     <Router>
       <Header />
